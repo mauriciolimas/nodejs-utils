@@ -1,0 +1,47 @@
+{
+  "samples": [
+    {
+      "marca": "HB20",
+      "fabricante": "Hyunday",
+      "tipos": [
+        {
+          "tipo": "Heart",
+          "cores": [
+            "preto",
+            "prata",
+            "branco"
+          ]
+        },
+        {
+          "tipo": "Sedan",
+          "cores": [
+            "prata"
+          ]
+        }
+      ], 
+      "multimidia": "sim"
+    },
+    {
+      "marca": "Onix",
+      "fabricante": "Chevrolet",
+      "tipos": [
+        {
+          "tipo": "Heart",
+          "cores": [
+            "preto",
+            "prata",
+            "branco",
+            "onix"
+          ]
+        },
+        {
+          "tipo": "Sedan",
+          "cores": [
+            "prata",
+            "vermelho"
+          ]
+        }
+      ]
+    }
+  ]
+}

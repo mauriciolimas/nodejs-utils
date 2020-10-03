@@ -1,0 +1,28 @@
+{
+  "level1Campo1": "valor",
+  "level1Campo2": "valor",
+  "level1Campo3": {
+    "level2Campo1": "valor",
+    "level2Campo2": {
+      "level3Campo1": "valor",
+      "level3Campo2": {
+        "level4Campo1": "valor"
+      }
+    }
+  },
+  "level1Campo4": "valor",
+  "level1Campo5": [
+    { 
+      "level2Campo1": "valor",
+      "level2Campo2": "valor",
+      "level2Campo3": {
+        "level3Campo1": "valor"
+      }
+    },  
+    { 
+      "level2Campo1": "valor",
+      "level2Campo2": "valor"
+    }
+  ],
+  "level1Campo6": "valor"
+}
