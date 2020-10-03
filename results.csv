@@ -1,11 +1,15 @@
-"marca","fabricante","tipos.tipo","tipos.cores","multimidia"
-"HB20","Hyunday","Heart","preto","sim"
-"HB20","Hyunday","Heart","prata","sim"
-"HB20","Hyunday","Heart","branco","sim"
-"HB20","Hyunday","Sedan","prata","sim"
-"Onix","Chevrolet","Heart","preto",
-"Onix","Chevrolet","Heart","prata",
-"Onix","Chevrolet","Heart","branco",
-"Onix","Chevrolet","Heart","onix",
-"Onix","Chevrolet","Sedan","prata",
-"Onix","Chevrolet","Sedan","vermelho",
+"marca","fabricante","tipos.tipo","tipos.cores","multimidia","transmissao.automatico","transmissao.manual"
+"HB20","Hyunday","Heart","preto","sim","6 velocidades","5 velocidades"
+"HB20","Hyunday","Heart","preto","sim","6 velocidades","6 velocidades"
+"HB20","Hyunday","Heart","prata","sim","6 velocidades","5 velocidades"
+"HB20","Hyunday","Heart","prata","sim","6 velocidades","6 velocidades"
+"HB20","Hyunday","Heart","branco","sim","6 velocidades","5 velocidades"
+"HB20","Hyunday","Heart","branco","sim","6 velocidades","6 velocidades"
+"HB20","Hyunday","Sedan","prata","sim","6 velocidades","5 velocidades"
+"HB20","Hyunday","Sedan","prata","sim","6 velocidades","6 velocidades"
+"Onix","Chevrolet","Heart","preto",,"6 velocidades",
+"Onix","Chevrolet","Heart","prata",,"6 velocidades",
+"Onix","Chevrolet","Heart","branco",,"6 velocidades",
+"Onix","Chevrolet","Heart","onix",,"6 velocidades",
+"Onix","Chevrolet","Sedan","prata",,"6 velocidades",
+"Onix","Chevrolet","Sedan","vermelho",,"6 velocidades",

@@ -1,3 +1,12 @@
+/**
+ * @author Mauricio Lima
+ * @param {Array<Object>} obj 
+ * @returns { JSON {
+ *  properties: string[],
+ *  transforms: string[]
+ * }}
+   * @example { properties: ['key1', 'key2'], transforms: ['key1.sub'] }
+ */
 module.exports = function objectPropertiesResolver(obj) {
   const properties = []
   const transforms = []

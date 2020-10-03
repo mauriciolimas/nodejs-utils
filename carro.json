@@ -19,7 +19,11 @@
           ]
         }
       ], 
-      "multimidia": "sim"
+      "multimidia": "sim",
+      "transmissao": {
+        "automatico": ["6 velocidades"],
+        "manual": ["5 velocidades", "6 velocidades"]
+      }
     },
     {
       "marca": "Onix",
@@ -41,7 +45,10 @@
             "vermelho"
           ]
         }
-      ]
+      ],
+      "transmissao": {
+        "automatico": ["6 velocidades"]
+      }
     }
   ]
 }
